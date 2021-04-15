@@ -1,12 +1,13 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Udit Narayan Soni!
 
 <!--
-**UditNarayanSoni/uditnarayansoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**UditNarayanSoni/uditnarayansoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 Fresher, 2020 passout from B.Tech (Computer Science Engineering) specialized in JavaScript | HTML | CSS. Professional experience with technologies listed in the **toolbox** below.
 
 I created tech web-site mostly about Frontend Development.
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
