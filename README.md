@@ -26,7 +26,7 @@ I created tech web-site mostly about Frontend Development.
 <img align="left" alt="Linkedin Profile |LinkedIn"  width="20" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"><a href="https://www.linkedin.com/in/udit-narayan-soni-82b5b7195" style="text-decoration:none">LinkedIn</a>
 
 <img align="left" alt="Instagram Profile |Instagram"  width="20" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"><a href="https://www.instagram.com/udit_narayan_188" style="text-decoration:none">Instagram</a>
-
+<br>
 ## I'm a Bachelor's Student and Developer !
 - 🌱 I’m currently learning ReactJs.
 - 👯 I’m looking for Job in Frontend Development.
