@@ -5,7 +5,7 @@
 
 ***
 
-Fresher, 2020 passout from B.Tech (Computer Science Engineering) specialized in JavaScript | HTML | CSS. Professional experience with technologies listed in the **toolbox** below.
+Fresher, 2020 passout from B.Tech (Computer Science Engineering) specialized in React JS | JavaScript | HTML | CSS. Professional experience with technologies listed in the **Language and Tools** below.
 
 I created tech web-site mostly about Frontend Development.
 
@@ -28,6 +28,6 @@ I created tech web-site mostly about Frontend Development.
 <img align="left" alt="Instagram Profile |Instagram"  width="20" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"><a href="https://www.instagram.com/udit_narayan_188" style="text-decoration:none">Instagram</a>
 <br>
 ## I'm a Bachelor's Student and Developer !
-- 🌱 I’m currently learning ReactJs.
+- 🌱 I’m currently learning Frontend data capturing / storing.
 - 👯 I’m looking for Job in Frontend Development.
 - ⚡ Fun fact: I love Designing and Playing with aniamtions. 
