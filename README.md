@@ -15,6 +15,7 @@ I created tech web-site mostly about Frontend Development.
 <img align="left" alt="HTML Code" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png">
 <img align="left" alt="CSS Code" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png">
 <img align="left" alt="JavaScript Code" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+<img align="left" alt="React JS" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
 <img align="left" alt="Visual Studio Code" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png">
 <img align="left" alt="Git Code" width="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png">
 
@@ -28,6 +29,6 @@ I created tech web-site mostly about Frontend Development.
 <img align="left" alt="Instagram Profile |Instagram"  width="20" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"><a href="https://www.instagram.com/udit_narayan_188" style="text-decoration:none">Instagram</a>
 <br>
 ## I'm a Bachelor's Student and Developer !
-- 🌱 I’m currently learning Frontend data capturing / storing.
+- 🌱 I’m currently learning Database.
 - 👯 I’m looking for Job in Frontend Development.
 - ⚡ Fun fact: I love Designing and Playing with aniamtions. 
