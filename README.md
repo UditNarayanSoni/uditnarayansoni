@@ -30,5 +30,6 @@ I created tech web-site mostly about Frontend Development.
 <br>
 ## I'm a Bachelor's Student and Developer !
 - 🌱 I’m currently learning Database.
+- ⚡ Building Projects on React Js and JavaScript.
 - 👯 I’m looking for Job in Frontend Development.
 - ⚡ Fun fact: I love Designing and Playing with aniamtions. 
