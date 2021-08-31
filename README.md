@@ -7,7 +7,7 @@
 
 Fresher, 2020 passout from B.Tech (Computer Science Engineering) specialized in React JS | JavaScript | HTML | CSS. Professional experience with technologies listed in the **Language and Tools** below.
 
-I created tech web-site mostly about Frontend Development.
+I create tech web-site mostly about Frontend Development.
 
 ***
 ## Language and Tools:
