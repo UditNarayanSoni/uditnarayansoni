@@ -30,8 +30,3 @@ Technology driven Software Engineer with 3 years of experience in translating bu
 
 <img align="left" alt="Instagram Profile |Instagram"  width="20" src="http://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"><a href="https://www.instagram.com/udit_narayan_188" style="text-decoration:none">Instagram</a>
 <br>
-## I'm a Bachelor's Student and Developer !
-- 🌱 I’m currently learning Database.
-- ⚡ Building Projects on React Js and JavaScript.
-- 👯 I’m looking for Job in Frontend Development.
-- ⚡ Fun fact: I love Designing and Playing with aniamtions. 
